@@ -1,0 +1,1 @@
+[`https://nunofaria007.github.io/Jellyfin.XtreamTuner/repository.json`](https://nunofaria007.github.io/Jellyfin.XtreamTuner/repository.json)
