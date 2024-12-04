@@ -1,0 +1,20 @@
+[
+  {
+    "category": "Live TV",
+    "description": "Stream Live IPTV, Video On-Demand, and Series from an Xtream-compatible server using this plugin.\n",
+    "guid": "eb5d7894-8eef-4b36-aa6f-5d124e828ce1",
+    "name": "Jellyfin XtreamTuner",
+    "overview": "Stream content from an Xtream-compatible server.",
+    "owner": "raven",
+    "versions": [
+      {
+        "changelog": "",
+        "checksum": "0ad61f41cf110d668ac9c4cbb174562c",
+        "sourceUrl": "https://github.com/nunofaria007/Jellyfin.XtreamTuner/releases/download/v0.1.0.0/jellyfin-xtreamtuner-0.1.0.0.zip",
+        "targetAbi": "10.8.4.0",
+        "timestamp": "22024-12-04T15:23:26Z",
+        "version": "0.1.0.0"
+      }
+    ]
+  }
+]
