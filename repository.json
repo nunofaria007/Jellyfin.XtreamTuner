@@ -9,7 +9,7 @@
     "versions": [
       {
         "changelog": "",
-        "checksum": "0ad61f41cf110d668ac9c4cbb174562c",
+        "checksum": "3505F29F628D2E96438F6C1422ED1F0B",
         "sourceUrl": "https://github.com/nunofaria007/Jellyfin.XtreamTuner/releases/download/v0.1.0.0/jellyfin-xtreamtuner-0.1.0.0.zip",
         "targetAbi": "10.8.4.0",
         "timestamp": "2024-12-04T15:23:26Z",
